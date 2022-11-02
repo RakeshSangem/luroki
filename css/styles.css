@@ -259,8 +259,12 @@ pre {
   width: 300px;
   justify-self: end;
 }
+.features-main .card{
+  align-items: flex-start;
+}
 .features-main .card > i {
   margin-right: 20px;
+  margin-top: 10px;
 }
 .features-main .grid {
   padding: 30px;
